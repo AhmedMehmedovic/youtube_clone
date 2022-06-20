@@ -1,0 +1,29 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img {
+  width: 7rem;
+  height: 3rem;
+}
+body {
+  min-height: 100vh;
+  background-color: #fff;
+} */
+/* .navbar {
+  width: 250px;
+  height: 100vh;
+  position: fixed;
+  background-color: rgb(126, 9, 9);
+  transition: 0.4%;
+}
+
+.nav-link {
+  font-size: 1.25em;
+}
+.nav-link:active,
+.nav-link:focus,
+.nav-link:hover {
+  background-color: #fff;
+} */
