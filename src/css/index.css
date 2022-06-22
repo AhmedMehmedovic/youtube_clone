@@ -27,9 +27,7 @@ body {
 .nav-link:hover {
   background-color: #fff;
 } */
-.listSidebar {
-  border: 0px;
-}
+
 .paragraphPrijava {
   padding-right: 20px;
 }
@@ -50,6 +48,6 @@ hr {
 .rowCards {
   margin-left: 10px;
 }
-.cardVideo {
-  border: 0;
+.sidebarMenu {
+  display: none !important;
 }
