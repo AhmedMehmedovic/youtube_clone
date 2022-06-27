@@ -60,3 +60,22 @@ hr {
   margin-right: 0;
   justify-content: center;
 }
+.listaYoutubeTv {
+  position: absolute;
+  margin-left: 2rem;
+  margin-top: -5px !important;
+  width: 12rem;
+  border-radius: 0;
+}
+.listaYoutubeTv li {
+  height: 2.5rem;
+}
+.listaPostavke {
+  position: absolute;
+  margin-top: 2rem !important;
+  width: 17rem;
+  border-radius: 0;
+}
+.listaPostavke li {
+  height: 2.5rem;
+}
