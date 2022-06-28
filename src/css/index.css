@@ -62,8 +62,8 @@ hr {
 }
 .listaYoutubeTv {
   position: absolute;
-  margin-left: 2rem;
-  margin-top: -5px !important;
+  margin-left: 0.5rem;
+  margin-top: -7px !important;
   width: 12rem;
   border-radius: 0;
 }
@@ -75,6 +75,7 @@ hr {
   margin-top: 2rem !important;
   width: 17rem;
   border-radius: 0;
+  width: 19rem;
 }
 .listaPostavke li {
   height: 2.5rem;
