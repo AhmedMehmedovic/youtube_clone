@@ -71,7 +71,7 @@ hr {
   height: 2.5rem;
 }
 .listaPostavke {
-  position: absolute;
+  position: absolute !important;
   margin-top: 2rem !important;
   width: 17rem;
   border-radius: 0;
