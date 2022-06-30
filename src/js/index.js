@@ -1,13 +1,13 @@
 "use strict";
-let menuSideButton = document.getElementById("btnNavLogo");
-let sideBarDiv = document.getElementById("siderLeft");
-let iconsSidebar = document.getElementById("miniIconSider");
+let $menuSideButton = document.getElementById("btnNavLogo");
+let $sideBarDiv = document.getElementById("siderLeft");
+let $iconsSidebar = document.getElementById("miniIconSider");
 
 ///// LIJEVI SIDEBAR
 $(document).ready(function () {
-  $(menuSideButton).click(function () {
-    $(iconsSidebar).toggle(10);
-    $(sideBarDiv).toggle(10);
+  $($menuSideButton).click(function () {
+    $($iconsSidebar).toggle(10);
+    $($sideBarDiv).toggle(10);
   });
 
   //CLICK ON PRIJAVI SE
